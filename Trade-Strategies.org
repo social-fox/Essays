@@ -1,0 +1,11 @@
+* Mean reversion strategies
+
+
+* Trend reversal strategies
+
+
+* Trend following strategies
+
+** Entry on pullbacks (trend following-reversal strategy)
+
+** Entry on breakouts 
